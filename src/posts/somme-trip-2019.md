@@ -30,10 +30,10 @@ We spent the rest of the day going around several graveyards, battlegrounds and 
 
 After the final site my coffee high finally reached its' end. It had lasted 5 hours, and I passed out for 20 minutes. I think it's safe to say that it was my best powernap ever! Thanks Joe, for taking photos of me whilst I was sleeping: 
 
-![Passed out after the 5 hour coffee high.](/images/uploads/70497628_413470315837492_6702294573129086904_n.jpg "Cheers, Joe!")
+![Passed out after the 5 hour coffee high.](/uploads/somme-trip-2019-1.jpg "Cheers, Joe!")
 
 On the way home the teachers strictly said no coffee for anyone, and I feel proud that I got coffee banned on our bus! We got stuck just outside Duxford on the M11 for about an hour because a car did a forward roll - I never thought cars were particularly gymnastic!
 
 Thanks to all my friends for a great day. Here's a picture of us on the Eurostar, heading back from France: 
 
-![Me and my friends on the Eurostar](/images/uploads/64315095_485248175648138_2384510650975004414_n.jpg "Eurostar Madness!")
+![Me and my friends on the Eurostar](/uploads/somme-trip-2019-2.jpg "Eurostar Madness!")

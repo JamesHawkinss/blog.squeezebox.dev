@@ -3,9 +3,12 @@ module.exports = {
   description: "the most inactive site on the web",
 
   head: [
-    ['meta', { name: 'theme-color', content: '#3eaf7c' }],
-    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
+    // android
+    ['meta', { name: 'theme-color', content: '#3767CE' }],
+
+    // ios
+    ['meta', { name: 'apple-mobile-web-app-title', content: "james' blog" }],
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
   ],
 
   themeConfig: {
@@ -14,8 +17,15 @@ module.exports = {
     editLinkText: '',
     docsDir: '/posts',
     lastUpdated: false,
-    navbar: false,
-    sidebar: false
+    nav: [
+      { text: 'home', link: '/' },
+      { text: 'twitter', link: 'https://twitter.com/JamessHawkinsss' },
+      { text: 'repo', link: 'https://github.com/JamesHawkinss/blog.squeezebox.dev' }
+    ],
+    footer: 'james hawkins',
+    sidebar: false,
+    search: false,
+    smoothScroll: true
   },
 
   plugins: []

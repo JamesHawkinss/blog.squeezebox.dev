@@ -19,7 +19,7 @@ School broke up yesterday, and I'm really looking forward to two weeks of relaxa
 
 Today I met some of my internet friends in Cambridge for the first time. Will drove down from Lincoln and picked up Tay from Luton, so massive shout-out for your 3 hour journey! We had an amazing time together; we went bowling, and then grabbed some lunch from the infamous Indigo. Here's a beautiful photo of me trying out some epic sunglasses in John Lewis: 
 
-![Epic sunglasses!](/images/uploads/79480893_679774782553480_5637510777338551681_n.jpg "Sunglasses :D")
+![Epic sunglasses!](/uploads/it's-beginning-to-feel-a-lot-like-christmas-1.jpg "Sunglasses :D")
 
 They're worth £199, but they've got directional Bluetooth speakers, meaning that you can listen to music and nobody else would know! I really wanna buy them... ( watch this space ;D )
 
