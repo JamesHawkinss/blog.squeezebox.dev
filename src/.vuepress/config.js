@@ -29,6 +29,8 @@ module.exports = {
   },
 
   plugins: [
-    'vuepress-plugin-clean-urls'
+    ['vuepress-plugin-clean-urls', {
+      normalSuffix: '/'
+    }]
   ]
 }
