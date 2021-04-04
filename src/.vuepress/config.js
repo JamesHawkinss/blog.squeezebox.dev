@@ -18,9 +18,9 @@ module.exports = {
     docsDir: '/posts',
     lastUpdated: false,
     nav: [
-      { text: 'home', link: '/' },
       { text: 'twitter', link: 'https://twitter.com/JamessHawkinsss' },
-      { text: 'repo', link: 'https://github.com/JamesHawkinss/blog.squeezebox.dev' }
+      { text: 'github', link: 'https://github.com/JamesHawkinss' },
+      { text: 'contact', link: 'mailto:jhawki2005@gmail.com' }
     ],
     footer: 'james hawkins',
     sidebar: false,
