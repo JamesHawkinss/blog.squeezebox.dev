@@ -28,10 +28,6 @@ module.exports = {
     smoothScroll: true
   },
 
-  markdown: {
-    pageSuffix: ''
-  },
-
   plugins: [
     'vuepress-plugin-clean-urls'
   ]
